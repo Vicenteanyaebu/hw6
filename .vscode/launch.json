@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/vicenteanyaegbu/Desktop/CMSI_2120/hw6",
+      "program": "/Users/vicenteanyaegbu/Desktop/CMSI_2120/hw6/build/Debug/outDebug"
+    }
+  ]
+}
